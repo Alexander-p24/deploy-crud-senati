@@ -21,7 +21,6 @@ while($row = $result->fetch_assoc()){
              <td>$row[id]</td>
              <td>$row[name]</td>
              <td>$row[lastname]</td>
-             <td><a href=""></a></td>
         </tr>";
 }
 
